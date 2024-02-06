@@ -1,0 +1,43 @@
+Sprint 1: Image Capture Module Implementation
+
+Sprint Objective:
+Develop the image capture module for the facial recognition system.
+
+
+Sprint Backlog:
+
+User Story:
+As an administrator, I want the system to capture facial images upon entry.
+
+
+Story Estimation:
+Estimate the effort required for implementing image capture.
+
+
+Daily Scrum:
+Daily Meeting:
+
+Developer 1: "Yesterday, I started researching image processing libraries in Java. Today, I'll begin implementing the image capture module."
+
+Developer 2: "Yesterday, I set up the development environment. Today, I'll join in implementing the image capture module."
+
+Adapt Plans:
+Adjust the focus based on progress and challenges encountered.
+
+Development:
+Iterative Implementation:
+-Use libraries such as JavaCV or OpenCV for image capture.
+-Develop a module allowing interaction with the camera.
+-Implement logic to capture facial images upon entry.
+
+Continuous Testing:
+Conduct unit tests to ensure proper image capture functionality.
+Test integration with the developing system.
+
+Sprint Review:
+Product Demonstration:
+Showcase the functioning image capture module.
+Gather feedback on the quality of captured images.
+Sprint Retrospective:
+Identify any issues or improvements in image capture.
+Adjust the plan to address received feedback.
